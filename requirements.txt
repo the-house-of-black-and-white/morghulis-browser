@@ -1,2 +1,2 @@
-git+https://github.com/the-house-of-black-and-white/morghulis.git
 opencv-python==3.4.1.15
+git+https://github.com/the-house-of-black-and-white/morghulis.git
